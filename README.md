@@ -120,6 +120,3 @@ Extending the Server
 - Reuse `httpx.AsyncClient` for external calls; include appropriate headers.
 
 
-License
--------
-This project is provided as-is for educational/demo purposes.
